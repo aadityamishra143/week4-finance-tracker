@@ -1,0 +1,35 @@
+{
+  "expenses": [
+    {
+      "id": 1,
+      "date": "2026-07-01",
+      "amount": 450.0,
+      "category": "Food",
+      "description": "Weekly groceries"
+    },
+    {
+      "id": 2,
+      "date": "2026-07-03",
+      "amount": 120.0,
+      "category": "Transport",
+      "description": "Cab to office"
+    },
+    {
+      "id": 3,
+      "date": "2026-07-05",
+      "amount": 899.0,
+      "category": "Entertainment",
+      "description": "Movie night with friends"
+    },
+    {
+      "id": 4,
+      "date": "2026-07-07",
+      "amount": 9000.0,
+      "category": "Health",
+      "description": ""
+    }
+  ],
+  "budgets": {
+    "2026-07": 5000.0
+  }
+}

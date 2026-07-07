@@ -1,0 +1,5 @@
+# Personal Finance Tracker uses only the Python standard library
+# (json, csv, os, shutil, datetime, unittest) — no external
+# dependencies are required.
+#
+# Minimum Python version: 3.8+

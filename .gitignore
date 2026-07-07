@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+.venv/
+venv/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+
+# Generated data (keep the folder structure, ignore generated exports/backups)
+data/backup/*.json
+data/exports/*.csv
+!data/backup/.gitkeep
+!data/exports/.gitkeep
